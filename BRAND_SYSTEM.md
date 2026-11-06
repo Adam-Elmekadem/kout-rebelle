@@ -27,7 +27,7 @@ The earlier scarlet racing accent is deliberately retired for this cold capsule.
 
 **Type:** Condensed industrial display (`Impact` with `Arial Narrow` fallback) for campaign statements and wordmark; plain Arial/Helvetica for details and controls. Functional labels are uppercase and tightly spaced; paragraph copy remains sentence case.
 
-**Composition:** One cinematic close crop, an asymmetrical product edit, a city-night campaign image, a disciplined collection grid, and a wide alpine statement. The site alternates intimate apparel texture with scale and distance. Use generous dark space so the silver pieces carry the visual weight.
+**Composition:** One cinematic close crop, a uniform four-column capsule grid, a city-night campaign image, and a wide alpine statement. The site alternates intimate apparel texture with scale and distance. Use generous dark space so the silver pieces carry the visual weight.
 
 ## Capsule 01
 
@@ -49,7 +49,7 @@ Prices and products are fictional showcase content. The guided checkout has a sh
 - Keep utility information legible against imagery; do not place long copy over detailed garment areas.
 - Use cropped campaign photography for emotion and clean studio photography for product clarity.
 - Interaction is user-triggered: product reveal on hover, category filters, sort, size selection, bag feedback, and checkout steps. Do not animate every section on scroll.
-- A product's dedicated page carries fit, construction, and an editorial pairing. The collection page uses one oversized feature tile to break the regular grid.
+- A product's dedicated page carries fit, construction, and an editorial pairing. The landing and collection pages use equal product tiles in the original four-column rhythm, becoming two columns on small screens.
 - The Contact page gives an inquiry form preview and an actual link to the creator's GitHub profile. Do not imply the form sends a message.
 - Keep reduced-motion support, visible focus, and mobile navigation.
 - Do not reproduce the reference artwork, logo, copy, or exact layout. Its cold palette, close-cropped outerwear, compact utility text, and alpine scale are translated into an original composition.

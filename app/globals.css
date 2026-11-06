@@ -219,10 +219,9 @@ button:focus-visible,a:focus-visible { outline:2px solid #e8f6fc; outline-offset
 .catalog-sort select { max-width:165px; padding:9px 24px 9px 7px; border:0; border-bottom:1px solid rgba(255,255,255,.5); background:transparent; color:#fff; font:inherit; cursor:pointer; }
 .catalog-sort option { background:#1d384a; color:#fff; }
 .catalog-count { margin:24px 0 18px; font-size:10px; font-weight:800; letter-spacing:.15em; }
-.catalog-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:45px 14px; }
-.catalog-feature { grid-column:span 2; grid-row:span 2; }
-.catalog-feature .product-image-link { aspect-ratio:1/1.22; }
-.catalog-feature .product-meta h3 { font-size:24px; }
+.catalog-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:42px 14px; }
+.collection-tail a { display:inline-flex; align-items:center; gap:10px; }
+.collection-tail a svg { width:15px; height:15px; }
 .collection-story { position:relative; isolation:isolate; min-height:620px; overflow:hidden; }
 .collection-story>img { z-index:-2; object-fit:cover; }
 .collection-story::after { content:""; position:absolute; inset:0; z-index:-1; background:linear-gradient(90deg,rgba(7,21,33,.76),transparent 75%); }
@@ -420,8 +419,6 @@ button:focus-visible,a:focus-visible { outline:2px solid #e8f6fc; outline-offset
 
 @media (max-width:1100px) {
   .system-grid,.catalog-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
-  .catalog-feature { grid-column:auto; grid-row:auto; }
-  .catalog-feature .product-image-link { aspect-ratio:3/3.8; }
   .system-heading { grid-template-columns:1fr 2fr; }
   .system-heading p { grid-column:2; }
   .edit-grid { grid-template-columns:1fr; }
@@ -466,7 +463,9 @@ button:focus-visible,a:focus-visible { outline:2px solid #e8f6fc; outline-offset
   .edit-mark { width:38px; height:38px; }
   .product-image-link { aspect-ratio:3/4; }
   .product-meta { display:flex; align-items:start; }
+  .collection .product-meta,.catalog .product-meta { display:block; }
   .product-meta .price { margin:0; }
+  .collection .product-meta .price,.catalog .product-meta .price { margin-top:8px; }
   .edit-hero .product-image-link { aspect-ratio:3/3.4; }
   .city-story { height:650px; min-height:0; }
   .city-story>img { object-position:68% center; }
