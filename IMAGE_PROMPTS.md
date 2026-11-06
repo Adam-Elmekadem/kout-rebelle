@@ -14,6 +14,10 @@ Four separate full-front product photographs on a consistent muted blue-grey sea
 
 Wide cinematic alpine landscape in deep steel-blue twilight. Jagged snow-covered mountain ridge, wind-blown snow, atmospheric depth, cold moving light across the sky. Quiet but powerful. Leave the left portion dark enough for large white type. No people, text, logos, or recognizable commercial marks.
 
+## Expanded capsule
+
+Five additional original images extend the same cold studio language: (1) a cropped silver insulated vest photographed from the front; (2) an oversized frost-marl thermal knit with visible ribbing; (3) a modular slate-blue crossbody sling with technical straps; (4) sculptural silver winter gloves with articulated panels; and (5) a cinematic night-city campaign portrait of a model wearing the capsule. Use cool blue-grey light, soft but precise highlights, honest fabric detail, and clean silhouettes. Keep the garment images on a consistent seamless backdrop, with no text or recognizable commercial logos.
+
 ## Production notes
 
 Export WebP for the site; preserve full-resolution originals off-site for future artwork. Check seams, zippers, hands, and logotypes closely before print or commercial use. The images are concept visuals, not photographs of physical inventory.

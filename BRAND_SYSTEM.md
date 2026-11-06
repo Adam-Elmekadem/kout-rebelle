@@ -27,7 +27,7 @@ The earlier scarlet racing accent is deliberately retired for this cold capsule.
 
 **Type:** Condensed industrial display (`Impact` with `Arial Narrow` fallback) for campaign statements and wordmark; plain Arial/Helvetica for details and controls. Functional labels are uppercase and tightly spaced; paragraph copy remains sentence case.
 
-**Composition:** One cinematic close crop, then a disciplined four-piece product grid, then a wide alpine statement. The site alternates intimate apparel texture with scale and distance. Use generous dark space so the silver pieces carry the visual weight.
+**Composition:** One cinematic close crop, an asymmetrical product edit, a city-night campaign image, a disciplined collection grid, and a wide alpine statement. The site alternates intimate apparel texture with scale and distance. Use generous dark space so the silver pieces carry the visual weight.
 
 ## Capsule 01
 
@@ -37,17 +37,23 @@ The earlier scarlet racing accent is deliberately retired for this cold capsule.
 | Nightshift Puffer | Midnight navy | $640 | After-dark utility outerwear |
 | Glacier Shell | Frost white | $520 | Light protective layer |
 | Vector Cargo | Steel grey | $280 | Wide, modular bottom |
+| Strata Vest | Ice blue | $390 | Sculpted insulated layer |
+| Pressure Knit | Graphite | $230 | Heavyweight winter knit |
+| Orbit Sling | Chrome / graphite | $180 | Compact modular carry |
+| Signal Gloves | Midnight navy | $120 | Cold-weather finishing piece |
 
-Prices and products are fictional showcase content. The demo bag does not accept payment or orders. Materials, weather resistance, and insulation performance must be validated before any commercial use.
+Prices and products are fictional showcase content. The guided checkout has a shipping preview, card and PayPal choices, concept coupons, and a review step, but does not accept payment or orders. Materials, weather resistance, and insulation performance must be validated before any commercial use.
 
 ## Interface rules
 
 - Keep utility information legible against imagery; do not place long copy over detailed garment areas.
 - Use cropped campaign photography for emotion and clean studio photography for product clarity.
-- Interaction is user-triggered: product reveal on hover, category filters, size selection, bag feedback. Do not animate every section on scroll.
+- Interaction is user-triggered: product reveal on hover, category filters, sort, size selection, bag feedback, and checkout steps. Do not animate every section on scroll.
+- A product's dedicated page carries fit, construction, and an editorial pairing. The collection page uses one oversized feature tile to break the regular grid.
+- The Contact page gives an inquiry form preview and an actual link to the creator's GitHub profile. Do not imply the form sends a message.
 - Keep reduced-motion support, visible focus, and mobile navigation.
 - Do not reproduce the reference artwork, logo, copy, or exact layout. Its cold palette, close-cropped outerwear, compact utility text, and alpine scale are translated into an original composition.
 
 ## Extensions
 
-Future campaigns can move from blue twilight into other temperature worlds while retaining the R/slash and motion-led voice. A real shop would need validated product specifications, stock, fulfillment, policies, and checkout.
+Future campaigns can move from blue twilight into other temperature worlds while retaining the R/slash and motion-led voice. A real shop would need validated product specifications, stock, fulfillment, policies, a contact endpoint, and a payment provider.
